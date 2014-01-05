@@ -1,0 +1,2028 @@
+Connecting to database specified by database.yml
+  [1m[36m (15.9ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-15 20:44:50 -0800
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.2ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-15 20:58:40 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 97ms (Views: 96.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-15 21:20:30 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 79ms (Views: 78.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-15 21:34:41 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 79ms (Views: 78.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2013-12-15 21:34:42 -0800
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-15 21:35:44 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 83ms (Views: 82.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2013-12-15 21:35:44 -0800
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-15 21:36:32 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 79ms (Views: 78.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2013-12-15 21:36:32 -0800
+Processing by StaticPagesController#about as HTML
+Completed 500 Internal Server Error in 61ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2013-12-15 21:39:11 -0800
+Processing by StaticPagesController#about as HTML
+Completed 500 Internal Server Error in 102ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-15 21:39:11 -0800
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 24ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2013-12-15 21:40:00 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 74ms (Views: 73.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2013-12-15 21:40:01 -0800
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 12ms (Views: 11.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 11:29:32 -0800
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (44.7ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 153ms (Views: 152.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:12:08 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (35.1ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (2.5ms)
+  Rendered layouts/_footer.html.erb (1.5ms)
+Completed 200 OK in 136ms (Views: 135.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:12:08 -0800
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered static_pages/places.html.erb within layouts/application (35.1ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (1.8ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 102ms (Views: 101.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:38:59 -0800
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#about as HTML
+ERROR: compiling _app_views_static_pages_about_html_erb___418706720_77052270 RAISED /media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ',', expecting ')'
+...ffer.append= ( provide (tiltle, 'About Us'));@output_buffer....
+...                               ^
+/media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ')', expecting keyword_end
+...( provide (tiltle, 'About Us'));@output_buffer.safe_concat('
+...                               ^
+Function body:           def _app_views_static_pages_about_html_erb___418706720_77052270(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "static_pages/about";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.append= ( provide (tiltle, 'About Us'));@output_buffer.safe_concat('
+');@output_buffer.safe_concat('<p>About Us </p>
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `module_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `compile'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:232:in `compile!'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:144:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:143:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:17:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:88:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:167:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:414:in `_run__208012098__process_action__47760078__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:121:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:45:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:203:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:246:in `block in action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:612:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/etag.rb:23:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/head.rb:14:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/query_cache.rb:64:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `_run__692734759__call__22860982__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:32:in `call_app'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/tagged_logging.rb:22:in `tagged'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/lock.rb:15:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/static.rb:63:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/engine.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/application.rb:223:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/builder.rb:134:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:64:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/mock_session.rb:30:in `request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:230:in `process_request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:57:in `get'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/forwardable.rb:201:in `get'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:59:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:35:in `process_and_follow_redirects'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:21:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/driver.rb:42:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/session.rb:193:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/dsl.rb:51:in `block (2 levels) in <module:DSL>'
+/media/DATA/neta/book_app1/spec/requests/static_pages_spec.rb:37:in `block (3 levels) in <top (required)>'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:21:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:418:in `run_hook'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:334:in `run_before_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:300:in `run_before_each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:113:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:254:in `with_around_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:111:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:390:in `block in run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:371:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/reporter.rb:34:in `report'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:25:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:80:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:17:in `block in autorun'
+  Rendered static_pages/about.html.erb within layouts/application (45.4ms)
+Completed 500 Internal Server Error in 86ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#about as HTML
+ERROR: compiling _app_views_static_pages_about_html_erb___418706720_77052270 RAISED /media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ',', expecting ')'
+...ffer.append= ( provide (tiltle, 'About Us'));@output_buffer....
+...                               ^
+/media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ')', expecting keyword_end
+...( provide (tiltle, 'About Us'));@output_buffer.safe_concat('
+...                               ^
+Function body:           def _app_views_static_pages_about_html_erb___418706720_77052270(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "static_pages/about";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.append= ( provide (tiltle, 'About Us'));@output_buffer.safe_concat('
+');@output_buffer.safe_concat('<p>About Us </p>
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `module_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `compile'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:232:in `compile!'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:144:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:143:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:17:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:88:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:167:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:414:in `_run__208012098__process_action__47760078__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:121:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:45:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:203:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:246:in `block in action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:612:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/etag.rb:23:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/head.rb:14:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/query_cache.rb:64:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `_run__692734759__call__22860982__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:32:in `call_app'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/tagged_logging.rb:22:in `tagged'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/lock.rb:15:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/static.rb:63:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/engine.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/application.rb:223:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/builder.rb:134:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:64:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/mock_session.rb:30:in `request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:230:in `process_request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:57:in `get'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/forwardable.rb:201:in `get'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:59:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:35:in `process_and_follow_redirects'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:21:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/driver.rb:42:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/session.rb:193:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/dsl.rb:51:in `block (2 levels) in <module:DSL>'
+/media/DATA/neta/book_app1/spec/requests/static_pages_spec.rb:37:in `block (3 levels) in <top (required)>'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:21:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:418:in `run_hook'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:334:in `run_before_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:300:in `run_before_each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:113:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:254:in `with_around_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:111:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:390:in `block in run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:371:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/reporter.rb:34:in `report'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:25:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:80:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:17:in `block in autorun'
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (2.9ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 79ms (Views: 78.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 15ms (Views: 14.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:40:19 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:40:59 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered static_pages/leaders.html.erb within layouts/application (39.1ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (1.8ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 106ms (Views: 105.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:40:59 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:40:59 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:40:59 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:41:00 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:41:00 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:41:00 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:41:00 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:41:00 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:41:00 -0800
+Processing by StaticPagesController#about as HTML
+ERROR: compiling _app_views_static_pages_about_html_erb___540421313_84639010 RAISED /media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ',', expecting ')'
+...uffer.append= ( provide (title, 'About Us'));@output_buffer....
+...                               ^
+/media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ')', expecting keyword_end
+... ( provide (title, 'About Us'));@output_buffer.safe_concat('
+...                               ^
+Function body:           def _app_views_static_pages_about_html_erb___540421313_84639010(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "static_pages/about";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.append= ( provide (title, 'About Us'));@output_buffer.safe_concat('
+');@output_buffer.safe_concat('<p>About Us </p>
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `module_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `compile'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:232:in `compile!'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:144:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:143:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:17:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:88:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:167:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:414:in `_run__457432124__process_action__392549707__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:121:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:45:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:203:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:246:in `block in action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:612:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/etag.rb:23:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/head.rb:14:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/query_cache.rb:64:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `_run__631058394__call__386138961__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:32:in `call_app'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/tagged_logging.rb:22:in `tagged'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/lock.rb:15:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/static.rb:63:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/engine.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/application.rb:223:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/builder.rb:134:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:64:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/mock_session.rb:30:in `request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:230:in `process_request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:57:in `get'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/forwardable.rb:201:in `get'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:59:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:35:in `process_and_follow_redirects'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:21:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/driver.rb:42:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/session.rb:193:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/dsl.rb:51:in `block (2 levels) in <module:DSL>'
+/media/DATA/neta/book_app1/spec/requests/static_pages_spec.rb:37:in `block (3 levels) in <top (required)>'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:21:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:418:in `run_hook'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:334:in `run_before_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:300:in `run_before_each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:113:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:254:in `with_around_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:111:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:390:in `block in run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:371:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/reporter.rb:34:in `report'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:25:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:80:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:17:in `block in autorun'
+Completed 500 Internal Server Error in 30ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:41:00 -0800
+Processing by StaticPagesController#about as HTML
+ERROR: compiling _app_views_static_pages_about_html_erb___540421313_84639010 RAISED /media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ',', expecting ')'
+...uffer.append= ( provide (title, 'About Us'));@output_buffer....
+...                               ^
+/media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ')', expecting keyword_end
+... ( provide (title, 'About Us'));@output_buffer.safe_concat('
+...                               ^
+Function body:           def _app_views_static_pages_about_html_erb___540421313_84639010(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "static_pages/about";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.append= ( provide (title, 'About Us'));@output_buffer.safe_concat('
+');@output_buffer.safe_concat('<p>About Us </p>
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `module_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `compile'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:232:in `compile!'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:144:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:143:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:17:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:88:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:167:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:414:in `_run__457432124__process_action__392549707__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:121:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:45:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:203:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:246:in `block in action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:612:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/etag.rb:23:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/head.rb:14:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/query_cache.rb:64:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `_run__631058394__call__386138961__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:32:in `call_app'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/tagged_logging.rb:22:in `tagged'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/lock.rb:15:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/static.rb:63:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/engine.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/application.rb:223:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/builder.rb:134:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:64:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/mock_session.rb:30:in `request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:230:in `process_request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:57:in `get'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/forwardable.rb:201:in `get'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:59:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:35:in `process_and_follow_redirects'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:21:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/driver.rb:42:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/session.rb:193:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/dsl.rb:51:in `block (2 levels) in <module:DSL>'
+/media/DATA/neta/book_app1/spec/requests/static_pages_spec.rb:37:in `block (3 levels) in <top (required)>'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:21:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:418:in `run_hook'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:334:in `run_before_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:300:in `run_before_each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:113:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:254:in `with_around_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:111:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:390:in `block in run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:371:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/reporter.rb:34:in `report'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:25:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:80:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:17:in `block in autorun'
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (35.3ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (2.9ms)
+  Rendered layouts/_footer.html.erb (2.0ms)
+Completed 200 OK in 108ms (Views: 107.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 5ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#about as HTML
+ERROR: compiling _app_views_static_pages_about_html_erb___834045782_79450490 RAISED /media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ',', expecting ')'
+...tputBuffer.new; provide (title, 'About Us')
+...                               ^
+/media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ')', expecting keyword_end
+Function body:           def _app_views_static_pages_about_html_erb___834045782_79450490(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "static_pages/about";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new; provide (title, 'About Us')
+@output_buffer.safe_concat('<p>About Us </p>
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `module_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `compile'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:232:in `compile!'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:144:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:143:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:17:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:88:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:167:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:414:in `_run__243522792__process_action__278900447__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:121:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:45:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:203:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:246:in `block in action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:612:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/etag.rb:23:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/head.rb:14:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/query_cache.rb:64:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `_run__252622068__call__62533813__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:32:in `call_app'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/tagged_logging.rb:22:in `tagged'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/lock.rb:15:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/static.rb:63:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/engine.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/application.rb:223:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/builder.rb:134:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:64:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/mock_session.rb:30:in `request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:230:in `process_request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:57:in `get'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/forwardable.rb:201:in `get'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:59:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:35:in `process_and_follow_redirects'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:21:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/driver.rb:42:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/session.rb:193:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/dsl.rb:51:in `block (2 levels) in <module:DSL>'
+/media/DATA/neta/book_app1/spec/requests/static_pages_spec.rb:37:in `block (3 levels) in <top (required)>'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:21:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:418:in `run_hook'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:334:in `run_before_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:300:in `run_before_each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:113:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:254:in `with_around_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:111:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:390:in `block in run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:371:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/reporter.rb:34:in `report'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:25:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:80:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:17:in `block in autorun'
+Completed 500 Internal Server Error in 16ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#about as HTML
+ERROR: compiling _app_views_static_pages_about_html_erb___834045782_79450490 RAISED /media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ',', expecting ')'
+...tputBuffer.new; provide (title, 'About Us')
+...                               ^
+/media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ')', expecting keyword_end
+Function body:           def _app_views_static_pages_about_html_erb___834045782_79450490(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "static_pages/about";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new; provide (title, 'About Us')
+@output_buffer.safe_concat('<p>About Us </p>
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `module_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `compile'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:232:in `compile!'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:144:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:143:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:17:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:88:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:167:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:414:in `_run__243522792__process_action__278900447__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:121:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:45:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:203:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:246:in `block in action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:612:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/etag.rb:23:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/head.rb:14:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/query_cache.rb:64:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `_run__252622068__call__62533813__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:32:in `call_app'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/tagged_logging.rb:22:in `tagged'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/lock.rb:15:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/static.rb:63:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/engine.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/application.rb:223:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/builder.rb:134:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:64:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/mock_session.rb:30:in `request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:230:in `process_request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:57:in `get'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/forwardable.rb:201:in `get'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:59:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:35:in `process_and_follow_redirects'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:21:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/driver.rb:42:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/session.rb:193:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/dsl.rb:51:in `block (2 levels) in <module:DSL>'
+/media/DATA/neta/book_app1/spec/requests/static_pages_spec.rb:37:in `block (3 levels) in <top (required)>'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:21:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:418:in `run_hook'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:334:in `run_before_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:300:in `run_before_each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:113:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:254:in `with_around_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:111:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:390:in `block in run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:371:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/reporter.rb:34:in `report'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:25:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:80:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:17:in `block in autorun'
+Completed 500 Internal Server Error in 13ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:41:11 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered static_pages/places.html.erb within layouts/application (33.9ms)
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (2.2ms)
+  Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 104ms (Views: 103.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#about as HTML
+ERROR: compiling _app_views_static_pages_about_html_erb___71686478_82585670 RAISED /media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ',', expecting ')'
+...putBuffer.new; provide (:title, 'About Us')
+...                               ^
+/media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ')', expecting keyword_end
+Function body:           def _app_views_static_pages_about_html_erb___71686478_82585670(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "static_pages/about";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new; provide (:title, 'About Us')
+@output_buffer.safe_concat('<p>About Us </p>
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `module_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `compile'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:232:in `compile!'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:144:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:143:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:17:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:88:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:167:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:414:in `_run__397213568__process_action__87515777__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:121:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:45:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:203:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:246:in `block in action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:612:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/etag.rb:23:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/head.rb:14:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/query_cache.rb:64:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `_run__1015491761__call__226382783__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:32:in `call_app'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/tagged_logging.rb:22:in `tagged'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/lock.rb:15:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/static.rb:63:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/engine.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/application.rb:223:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/builder.rb:134:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:64:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/mock_session.rb:30:in `request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:230:in `process_request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:57:in `get'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/forwardable.rb:201:in `get'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:59:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:35:in `process_and_follow_redirects'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:21:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/driver.rb:42:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/session.rb:193:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/dsl.rb:51:in `block (2 levels) in <module:DSL>'
+/media/DATA/neta/book_app1/spec/requests/static_pages_spec.rb:37:in `block (3 levels) in <top (required)>'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:21:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:418:in `run_hook'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:334:in `run_before_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:300:in `run_before_each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:113:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:254:in `with_around_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:111:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:390:in `block in run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:371:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/reporter.rb:34:in `report'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:25:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:80:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:17:in `block in autorun'
+Completed 500 Internal Server Error in 50ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#about as HTML
+ERROR: compiling _app_views_static_pages_about_html_erb___71686478_82585670 RAISED /media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ',', expecting ')'
+...putBuffer.new; provide (:title, 'About Us')
+...                               ^
+/media/DATA/neta/book_app1/app/views/static_pages/about.html.erb:1: syntax error, unexpected ')', expecting keyword_end
+Function body:           def _app_views_static_pages_about_html_erb___71686478_82585670(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "static_pages/about";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new; provide (:title, 'About Us')
+@output_buffer.safe_concat('<p>About Us </p>
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `module_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:297:in `compile'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:232:in `compile!'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:144:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/template.rb:143:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:47:in `block (2 levels) in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:46:in `block in render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:54:in `render_with_layout'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_view/renderer/renderer.rb:17:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:88:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:167:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:414:in `_run__397213568__process_action__87515777__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `block in instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/notifications.rb:123:in `instrument'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/base.rb:121:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/abstract_controller/rendering.rb:45:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:203:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_controller/metal.rb:246:in `block in action'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/routing/route_set.rb:612:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/etag.rb:23:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/head.rb:14:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/query_cache.rb:64:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activerecord-3.2.13/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `_run__1015491761__call__226382783__callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:32:in `call_app'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/tagged_logging.rb:22:in `tagged'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/rack/logger.rb:16:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/activesupport-3.2.13/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/lock.rb:15:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/actionpack-3.2.13/lib/action_dispatch/middleware/static.rb:63:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/engine.rb:479:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/railties-3.2.13/lib/rails/application.rb:223:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/builder.rb:134:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:64:in `block in call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-1.4.5/lib/rack/urlmap.rb:49:in `call'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/mock_session.rb:30:in `request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:230:in `process_request'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rack-test-0.6.2/lib/rack/test.rb:57:in `get'
+/home/mridul/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/forwardable.rb:201:in `get'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:59:in `process'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:35:in `process_and_follow_redirects'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/browser.rb:21:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/rack_test/driver.rb:42:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/session.rb:193:in `visit'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/capybara-2.1.0/lib/capybara/dsl.rb:51:in `block (2 levels) in <module:DSL>'
+/media/DATA/neta/book_app1/spec/requests/static_pages_spec.rb:37:in `block (3 levels) in <top (required)>'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:237:in `instance_eval'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:21:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:66:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/hooks.rb:418:in `run_hook'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:334:in `run_before_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:300:in `run_before_each'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:113:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:254:in `with_around_each_hooks'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example.rb:111:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:390:in `block in run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:386:in `run_examples'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:371:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/example_group.rb:372:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block (2 levels) in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `map'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:28:in `block in run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/reporter.rb:34:in `report'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/command_line.rb:25:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:80:in `run'
+/home/mridul/.rvm/gems/ruby-1.9.3-p448@tut_book/gems/rspec-core-2.13.1/lib/rspec/core/runner.rb:17:in `block in autorun'
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 12ms (Views: 11.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:42:09 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:43:07 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered static_pages/leaders.html.erb within layouts/application (45.0ms)
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (2.1ms)
+  Rendered layouts/_footer.html.erb (1.1ms)
+Completed 200 OK in 113ms (Views: 112.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:43:08 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.7ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:43:08 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:43:08 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:43:08 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:43:08 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:43:08 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:43:08 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:43:08 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:43:08 -0800
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:43:08 -0800
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:44:03 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered static_pages/parties.html.erb within layouts/application (34.0ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (1.8ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 99ms (Views: 98.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:44:03 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:44:03 -0800
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:44:03 -0800
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:44:03 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:44:04 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:44:04 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 12ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:44:04 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:44:04 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:44:04 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:44:04 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+Connecting to database specified by database.yml
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (41.1ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (2.2ms)
+  Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 113ms (Views: 112.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/leaders" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#leaders as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 10ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/places" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#places as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/parties" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#parties as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2013-12-16 12:44:33 -0800
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction

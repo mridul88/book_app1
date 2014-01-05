@@ -1,0 +1,10 @@
+<% provide(:title, 'Parties')%>
+<p>
+	<ul class="list-group">	
+	<% @parties_list.each do |party| %>
+	<li>
+		 <%= party.upcase %>
+	</li>
+	<% end%>
+	</ul>
+</p>

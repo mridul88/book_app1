@@ -1,0 +1,10 @@
+<% provide(:title, 'Leaders')%>
+<p>
+	<ul class="list-group">	
+	<% @leaders_list.each do |person| %>
+	<li>
+		 <%= person.titleize %>
+	</li>
+	<% end%>
+	</ul>
+</p>
